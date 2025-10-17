@@ -89,6 +89,7 @@ if uploaded_file is not None:
             st.write(f"• {names[cls_id]} ({conf:.2%})")
             class_name = names[cls_id]
             description = sign_descriptions.get(class_name, "No description available.")
-            st.write(f" Description: {description}")
+            st.write(f"{description}")
+
 
 
