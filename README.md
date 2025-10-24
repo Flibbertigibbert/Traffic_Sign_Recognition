@@ -145,7 +145,7 @@ Record your key metrics here once you train on your hardware.
 
 ## Reproducing the Notebook
 Open in Colab with this badge after pushing to your GitHub repo:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/REPO/blob/main/notebooks/TSR.ipynb)
+
 
 Replace `USER` and `REPO` with your GitHub handle and repository name.
 
@@ -159,4 +159,4 @@ Please cite original GTSRB and GTSDB papers when publishing results.
 This template is provided under the MIT License. Review third-party licenses for datasets and models you use.
 
 ## Maintainers
-- Your Name <you@example.com>
+- Adebola Rabiu
